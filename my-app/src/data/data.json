@@ -1,0 +1,22 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"name":"Venkata Sai",
+				"role":"Student",
+				"phone":"7661912789",
+				"email":"nagavsrgukt@gmail.com"
+			}
+		},
+		
+		{
+			"basic":{
+				"name":"yaswanth",
+				"role":"Student",
+				"phone":"9100232345",
+				"email":"yashrgukt@gmail.com"
+			}
+
+		}
+	]
+}
